@@ -1,0 +1,4 @@
+#Sun May 19 22:47:27 WIB 2019
+base.0=/Users/didik/Source/ReactNative/NewsApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
